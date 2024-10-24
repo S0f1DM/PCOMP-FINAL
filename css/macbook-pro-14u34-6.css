@@ -1,0 +1,42 @@
+/* screen - macbook-pro-14u34-6 */
+
+.macbook-pro-14u34-6 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  flex-direction: column;
+  gap: 93px;
+  height: 1718px;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-6 .captura-de-pantalla {
+  height: 1014px;
+  margin-right: 1.0px;
+  object-fit: cover;
+  width: 1511px;
+}
+
+.macbook-pro-14u34-6 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 106px;
+  height: 443px;
+  margin-left: 22.0px;
+  min-width: 906px;
+}
+
+.macbook-pro-14u34-6 .fibre-reactive-2004 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 435px;
+  width: 400px;
+}
+
+.macbook-pro-14u34-6 .permitiendo-que-el-h {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 377px;
+  width: 400px;
+}
